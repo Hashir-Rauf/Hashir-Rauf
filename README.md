@@ -48,8 +48,7 @@
 
 <br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir-Rauf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" />
-<img width="59%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hashir-Rauf&theme=tokyonight" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir-Rauf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -165,14 +164,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashir-Rauf&bg_color=0d1117&color=94a3b8&line=0ea5e9&point=38bdf8&area=true&area_color=1a3a5c&hide_border=true&custom_title=Hashir's+Contribution+Graph&radius=6" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hashir-Rauf&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hashir-Rauf&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hashir-Rauf&theme=tokyonight" width="32%" />
 
 </div>
 
