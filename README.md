@@ -2,14 +2,15 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Software+Developer+%7C+Data+Scientist+%7C+Startup+Founder;Two-time+Gold+Medalist+%40+FAST-NUCES;Co-founder+%40+ExaVerse;Building+AI-powered+products+for+real+impact" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Software+Developer+%7C+Data+Scientist+%7C+Startup+Founder;3x+Gold+%26+1x+Silver+Medalist+%40+FAST-NUCES;Founder+%40+Exaverse+Softwares;Building+AI-powered+products+for+real+impact" alt="Typing SVG" /></a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrm05/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hashir-Rauf)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:hashirrauf0321@outlook.com)
-[![ExaVerse](https://img.shields.io/badge/ExaVerse-0EA5E9?style=flat-square&logo=google-chrome&logoColor=white)](https://www.exaverse.site)
+[![Work Email](https://img.shields.io/badge/Work_Email-0EA5E9?style=flat-square&logo=gmail&logoColor=white)](mailto:h.rauf@exaverse.site)
+[![Exaverse](https://img.shields.io/badge/Exaverse-0EA5E9?style=flat-square&logo=google-chrome&logoColor=white)](https://www.exaverse.site)
 [![Profile Views](https://komarev.com/ghpvc/?username=Hashir-Rauf&color=0ea5e9&style=flat-square&label=Profile+Views)](https://github.com/Hashir-Rauf)
 
 </div>
@@ -18,19 +19,20 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-╔══════════════════════════════════════════════════════════╗
-║                    Hashir Rauf                           ║
-╠══════════════════════════════════════════════════════════╣
-║  Role       : Software Developer & Data Scientist        ║
-║  Education  : BS Data Science @ FAST-NUCES (2023–2027)   ║
-║  CGPA       : 3.72 | Two-time Gold Medalist 🥇🥇          ║
-║  Experience : Former Automation Dev @ KPMG               ║
-║  Startup    : Co-founder @ ExaVerse                      ║
-║  Location   : Lahore, Pakistan 🇵🇰                        ║
-║  Learning   : AI · Computer Vision · NLP · Game Dev      ║
-║  Goal       : Postgraduate studies in Artificial Intel.  ║
-╚══════════════════════════════════════════════════════════╝
+```text
+╔════════════════════════════════════════════════════════════════════╗
+║                            Hashir Rauf                             ║
+╠════════════════════════════════════════════════════════════════════╣
+║   Role       : Software Developer & Data Scientist                 ║
+║   Education  : BS Data Science @ FAST-NUCES (2023-2027)            ║
+║   CGPA       : 3.71 | 3x Gold Medalist, 1x Silver Medalist         ║
+║   Experience : Former Automation Dev @ KPMG                        ║
+║   Startup    : Founder @ Exaverse Softwares (SMC-Private) Ltd.     ║
+║   Location   : Lahore, Pakistan                                    ║
+║   Learning   : AI · Computer Vision · NLP · Game Dev               ║
+║   Goal       : Become the Tech Billionaire of Pakistan             ║
+║                through Software Products                           ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -43,12 +45,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hashir-Rauf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hashir-Rauf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Hashir-Rauf&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=94a3b8" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir-Rauf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hashir-Rauf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -58,7 +60,10 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hashir-Rauf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub Trophies"/>
+| 🥇 | 🥇 | 🥇 | 🥈 |
+|:-:|:-:|:-:|:-:|
+| **Gold Medal** | **Gold Medal** | **Gold Medal** | **Silver Medal** |
+| FAST-NUCES | FAST-NUCES | FAST-NUCES | FAST-NUCES |
 
 </div>
 
@@ -132,7 +137,7 @@
 | 🛡️ **SafeNest** | Disguised Emergency Response Android App — gesture-based triggers, GPS sharing, silent recording, fake call feature | `Kotlin` `Android` `GPS` |
 | 🎙️ **VoiceTask** | Voice-First AI Task Manager for blue-collar workers — offline-first, low-literacy friendly, local language support | `AI` `NLP` `Mobile` |
 | 📋 **AgileFlow** | Scrum-Based Project Management Tool — sprint planning, task boards, ML-powered insights | `C#` `.NET` `ML.NET` `EF` |
-| 🏢 **FacilityFirst** | Smart Facility Management Platform — streamlined facility and service management | `Flutter` `Web` `ExaVerse` |
+| 🏢 **FacilityFirst** | Smart Facility Management Platform — streamlined facility and service management | `Flutter` `Web` `Exaverse` |
 | 🩺 **Early Disease Risk Predictor** | XGBoost + SHAP explainability on PIMA Diabetes, UCI Heart Disease & Framingham datasets | `Python` `XGBoost` `SHAP` |
 | 🚗 **Lane Detection System** | Pakistani dashcam footage lane detection using OpenCV — ~93.5% frame-level accuracy | `Python` `OpenCV` `CV` |
 | 📈 **Stock Market Predictor** | Time series ML model for stock price forecasting with trend analysis | `Python` `Scikit-learn` `Jupyter` |
@@ -142,7 +147,7 @@
 
 ---
 
-## 🏢 ExaVerse
+## 🏢 Exaverse
 
 <div align="center">
 
@@ -150,8 +155,8 @@
 
 <br/>
 
-[![ExaVerse Website](https://img.shields.io/badge/🌐_ExaVerse-Visit_Website-0EA5E9?style=for-the-badge)](https://www.exaverse.site)
-[![ExaVerse LinkedIn](https://img.shields.io/badge/ExaVerse-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/exa-verse/)
+[![Exaverse Website](https://img.shields.io/badge/🌐_Exaverse-Visit_Website-0EA5E9?style=for-the-badge)](https://www.exaverse.site)
+[![Exaverse LinkedIn](https://img.shields.io/badge/Exaverse-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/exa-verse/)
 
 > *Products: **Pockit** | **FacilityFirst** | Custom AI Solutions*
 
@@ -202,8 +207,11 @@
 <a href="mailto:hashirrauf0321@outlook.com">
 <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
 </a>
+<a href="mailto:h.rauf@exaverse.site">
+<img src="https://img.shields.io/badge/Work_Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://www.exaverse.site">
-<img src="https://img.shields.io/badge/ExaVerse-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Exaverse-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -212,7 +220,7 @@
 
 <br/>
 
-![snake animation](https://github.com/Hashir-Rauf/Hashir-Rauf/blob/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://raw.githubusercontent.com/Hashir-Rauf/Hashir-Rauf/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
