@@ -19,6 +19,8 @@
 
 ## 🧑‍💻 About Me
 
+> I build AI-powered software products end to end, from data and models to shipped apps. Founder of **Exaverse Softwares**, currently studying Data Science at FAST-NUCES and working toward postgraduate research in AI.
+
 ```text
 ╔════════════════════════════════════════════════════════════════════╗
 ║                            Hashir Rauf                             ║
@@ -35,22 +37,23 @@
 ╚════════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashir-Rauf&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&area_color=1a3a5c&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
-</div>
-
 ---
 
 ## ⚡ GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hashir-Rauf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Hashir-Rauf&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=94a3b8" />
+<img width="100%" src="https://streak-stats.demolab.com?user=Hashir-Rauf&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=94a3b8" alt="Streak Stats" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hashir-Rauf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hashir-Rauf&theme=tokyonight" alt="GitHub Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hashir-Rauf&theme=tokyonight" alt="Profile Details" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hashir-Rauf&theme=tokyonight" alt="Most Used Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hashir-Rauf&theme=tokyonight" alt="Repos per Language" />
 
 </div>
 
